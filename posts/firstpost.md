@@ -1,5 +1,5 @@
 ---
-title: Welcome to Adama's blog post. This is my first post and i will keep adding more, so stay tuned.
+title: This is my first post.
 description: This is a post on My Blog about my journey as a Get Hired As A software developer. I will keep you updated on any progress made.
 date: 2018-05-01
 tags:
