@@ -23,7 +23,21 @@
       {%- endfor %}
       </ul>
     </header>
-
+<hr>
+	<form>
+      <p><strong>The Coders Guilds forms</strong></p>
+      Username:<input type="text" placeholder="your username">
+      Name:<input type="name" placeholder="your name">
+      Email:<input type="text" placeholder="your email or your username">
+      Username button:<input type="button">
+      stay logged in?:<input type="checkbox" checked>
+      Username email:<input type="email">
+      Username File:<input type="file">
+      <p>under 18:<input type="radio" name="age" value="U18"></p>
+      over 18:<input type="radio" name="age" value="O18">	
+      <p>submit botton: <input type="submit" value="click me"</p>
+	</form>
+ <hr>
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
       <!-- Delete this message -->
